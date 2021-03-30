@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sonic-edgehog
 - 👀 I’m interested in statistical modelling, stochastic calculus, network analysis, operations research,machine learning
 - 🌱 I’m currently learning how to create and modify website
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on statisical modelling and network analysis
 - 📫 How to reach me ...
 
 <!---
